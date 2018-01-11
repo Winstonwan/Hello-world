@@ -1,1 +1,4 @@
 ValueError: empty separator   (space between '')
+
+LPTHW Python3  ex39.py 1. Dict should use {} not[];
+And python2  dict.item() change to python3 dict.items()
